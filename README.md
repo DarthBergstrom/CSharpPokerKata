@@ -10,9 +10,11 @@ Create a simple Poker Game core with the following features:
 	- Dealer deals out hands to players at a table
 	- table can consist of 2 or more players
 	- players may bet (call, raise or fold)
-	- players ante in to play a round
-	- game has an ante
-	- game has variable rounds of betting (first round is given to make
+	- players ante in to play a round (if they choose not to, they are not in the current game)
+	- Round has an ante
+	- Game can consist of multiple rounds
+	- 
+	- players have points to bet
 	- 
 	Note: features are work in progress
 
